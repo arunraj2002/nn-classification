@@ -195,14 +195,11 @@ print(le.inverse_transform(x_single_prediction))
 ```
 
 ## Dataset Information
-
-Include screenshot of the dataset
+<img src="https://user-images.githubusercontent.com/75235813/189538394-40eec53b-a6aa-4ea2-bc62-0631958cb7b1.png" width="600">
 
 ## OUTPUT
-
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
 
 ### Classification Report
 
