@@ -203,6 +203,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ### Classification Report
 <img src="https://user-images.githubusercontent.com/75236145/189540866-9c0d8f41-f953-4ca3-9350-d8cd835c99df.png" width="500">
+<br><br><br><br><br><br>
 
 ### Confusion Matrix
 <img src="https://user-images.githubusercontent.com/75236145/189540838-bf76451a-a6c1-4e25-92e5-b1f96f63b99d.png" width="500">
