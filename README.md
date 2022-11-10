@@ -195,20 +195,20 @@ print(le.inverse_transform(x_single_prediction))
 ```
 
 ## Dataset Information
-<img src="https://user-images.githubusercontent.com/75235813/189538394-40eec53b-a6aa-4ea2-bc62-0631958cb7b1.png" width="600">
+<img src="https://user-images.githubusercontent.com/75235813/189538394-40eec53b-a6aa-4ea2-bc62-0631958cb7b1.png" width="400">
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://user-images.githubusercontent.com/75236145/189540943-436d4952-4863-42cb-bc61-1434e705aa66.png)
+<img src="https://user-images.githubusercontent.com/75236145/189540943-436d4952-4863-42cb-bc61-1434e705aa66.png" width="400">
 
 ### Classification Report
-![image](https://user-images.githubusercontent.com/75236145/189540866-9c0d8f41-f953-4ca3-9350-d8cd835c99df.png)
+<img src="https://user-images.githubusercontent.com/75236145/189540866-9c0d8f41-f953-4ca3-9350-d8cd835c99df.png" width="400">
 
 ### Confusion Matrix
-![image](https://user-images.githubusercontent.com/75236145/189540838-bf76451a-a6c1-4e25-92e5-b1f96f63b99d.png)
+<img src="https://user-images.githubusercontent.com/75236145/189540838-bf76451a-a6c1-4e25-92e5-b1f96f63b99d.png" width="400">
 
 ### New Sample Data Prediction
-![image](https://user-images.githubusercontent.com/75236145/189540902-7f8a69eb-be80-4591-b318-dbe7cd8c9728.png)
+<img src="https://user-images.githubusercontent.com/75236145/189540902-7f8a69eb-be80-4591-b318-dbe7cd8c9728.png" width="400">
 
 ## RESULT
 Thus,the neural network classification model for the given dataset is developed.
